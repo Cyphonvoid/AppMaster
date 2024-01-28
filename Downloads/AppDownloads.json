@@ -1,0 +1,16 @@
+{
+    "downloads":{
+        "Tic-Tac-Toe":{
+            "path":"Games.TicTacToe",
+            "description":"Play the classic Tic-Tac-Toe game with one or two players."
+        },
+        "Chess":{
+            "path":"None",
+            "description":"CHESS DESCRIPTION"
+        },
+        "Sudoku":{
+            "path":"Games.Sudoku.Launch",
+            "description":"SUDOKU DESCRIPTION"
+        }
+    }
+}
